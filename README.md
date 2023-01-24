@@ -1,2 +1,2 @@
 # Simple Intro Website
- A simple statc website completed for a web development course
+ A simple statc website portfolio completed for a web development course
