@@ -1,0 +1,165 @@
+body{
+    background-color: #081123;
+    color:grey;
+}
+
+/* navbar */
+
+.navbar{
+  padding-bottom: 10%;
+}
+
+
+
+.container-fluid{
+    padding: 1% 15%;
+}
+
+
+
+
+
+.brand-text{
+  
+    font-weight: 500;
+    padding-left: 5%;
+}
+
+
+.nav-btn{
+border-radius: 9999px;
+color: #fff;
+padding: 7px 13px;
+margin-top: -5px;
+}
+
+.title-h1{
+    color: #a855f7;
+    text-align: center;
+}
+
+.title-p{
+color:grey;
+text-align: center;
+}
+
+/* roadmaps */
+
+.rd-h2{
+ text-align: center;
+ border: 2px solid;
+ padding: 2px 15px;
+ border-radius: 5px;
+ font-size: 0.95rem;
+ margin-bottom: 50px;
+ margin-left: 100px;
+ width: 200px;
+ align-content: center;
+} 
+
+.rd2-h2{
+    text-align: center;
+    border: 2px solid;
+    padding: 2px 15px;
+    border-radius: 5px;
+    font-size: 0.95rem;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    width: 200px;
+    align-content: center;
+   } 
+
+.p-3{
+    border: 1px solid;
+    --tw-border-opacity: 1;
+    --tw-text-opacity: 1;
+    color: rgb(148 163 184 / var(--tw-text-opacity));
+    border-color: rgb(30 41 59 / var(--tw-border-opacity));
+    border-radius: 0.5rem;
+    width: 99%;
+    --tw-bg-opacity: 1;
+    background-color: rgb(15 23 42 / var(--tw-bg-opacity));
+ 
+    
+}
+
+.p-3:hover{
+    border-color: #e5e7eb;
+    cursor: pointer;
+}
+
+.p-3-off{
+    opacity: .5;
+}
+
+a{
+    text-decoration: none;
+    color:grey;
+}
+
+.icon{
+    color: rgb(216 180 254 / var(--tw-text-opacity));
+    font-size: 0.5em;
+    /* margin-left: 50px; */
+}
+
+sub{
+    color: rgb(216 180 254 / var(--tw-text-opacity));
+ 
+}
+
+
+.m-section{
+    background-color: rgb(248, 245, 245);
+    color: #000;
+   
+}
+
+.last-h1{
+    padding: 50px 0 15px 0;
+}
+
+.slide{
+    color: #000;
+}
+
+.slide:hover{
+    color: rgb(77, 77, 249);
+    margin-left: 13px;
+}
+
+.last-btn{
+    width: 18%;
+    padding: 2px 1px;
+    border-radius: 9999px;
+    text-align: center;
+}
+
+.last-btn:hover{
+    background-color: rgb(77, 77, 249);
+}
+
+.new{
+    background-color: rgb(121, 239, 121);
+    font-weight: 500;
+}
+
+.l-section{
+    background-color: white;
+    color: #000;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+/* .footer-row{
+
+ margin-right: 5px;
+ margin-left: 5px;
+}
+
+.col-lg-2{
+    margin-right: 25px;
+    margin-left: 25px;
+} */
